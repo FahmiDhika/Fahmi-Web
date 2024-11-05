@@ -16,6 +16,9 @@ const config: Config = {
         poppins: ["Poppins", "sans-serif"],
         comfortaa: ["Comfortaa", "sans-serif"],
       },
+      backgroundImage: {
+        'landingPage': "url('./')"
+      },
     },
   },
   plugins: [],
