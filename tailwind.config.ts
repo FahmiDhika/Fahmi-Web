@@ -17,8 +17,13 @@ const config: Config = {
         comfortaa: ["Comfortaa", "sans-serif"],
       },
       backgroundImage: {
-        'landingPage': "url('./')"
+        heroDekstop: "url('/Hero.svg')",
+        heroLaptop: "url('/Hero Laptop.svg')",
+        heroMobile: "url('/Hero Mobile.svg')",
       },
+      borderRadius: {
+        meliuk: "27% 74% 58% 41% / 38% 33% 67% 60% "
+      }
     },
   },
   plugins: [],
