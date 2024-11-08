@@ -14,7 +14,7 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "Fahmi Web",
+  title: "Fahmi Stuff",
   description: "Build & Develop By Fahmi Dhika",
 };
 
