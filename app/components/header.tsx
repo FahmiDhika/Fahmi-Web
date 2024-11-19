@@ -35,7 +35,7 @@ const Header = () => {
                 <div className="hidden xl:block">
                     <ul className="font-semibold text-xl flex text-center gap-[20] text-white">
                         <li><Link href="#profile" className="hover:border-b border-[#133E87] hover:text-[#133E87] transition ease-out duration-300">Profile</Link></li>
-                        <li><Link href="#project" className="hover:border-b border-[#133E87] hover:text-[#133E87] transition ease-out duration-300">Project</Link></li>
+                        <li><Link href="blog" className="hover:border-b border-[#133E87] hover:text-[#133E87] transition ease-out duration-300">Blog</Link></li>
                         <li><Link href="#certificate" className="hover:border-b border-[#133E87] hover:text-[#133E87] transition ease-out duration-300">Certificates</Link></li>
                         
                     </ul>
@@ -45,7 +45,7 @@ const Header = () => {
                 <div className={toggleNavbar ? "block" : "hidden"}>
                     <ul className="font-semibold text-white text-md xl:text-xl mt-6 flex flex-col text-center gap-[20]">
                         <li><Link href="#profile" className="border-b">Profile</Link></li>
-                        <li><Link href="#project" className="border-b">Project</Link></li>
+                        <li><Link href="blog" className="border-b">blog</Link></li>
                         <li><Link href="#certificate" className="border-b">Certificates</Link></li>
                     </ul>
                 </div>

@@ -10,7 +10,7 @@ const hero = () => {
         className="bg-heroMobile md:bg-heroLaptop xl:bg-heroDekstop bg-cover w-full h-screen after shadow-2xl shadow-blue-200"
         id="home"
       >
-        <div className="pt-56 flex justify-center items-center mb-5 xl:pt-44">
+        <div className="pt-32 flex justify-center items-center mb-5 xl:pt-36">
           <img
             src="foto gua square.JPG"
             alt="Foto Gua"

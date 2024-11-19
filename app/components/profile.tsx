@@ -16,7 +16,7 @@ const profile = () => {
 
   return (
     <section
-      className=" bg-profileGradient px-12 xl:px-64 pt-36 pb-14 h-auto"
+      className=" bg-profileGradient px-12 xl:px-64 pt-36 pb-14 h-auto mb-12"
       id="profile"
     >
       <div className="mb-14">
